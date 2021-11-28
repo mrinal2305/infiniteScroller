@@ -1,0 +1,22 @@
+.loginHome {
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 10%;
+    width: 40%;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.loginInputDiv {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
+
+.loginInput {
+    width: 100%;
+    margin-left: 16px;
+}

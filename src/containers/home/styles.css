@@ -1,0 +1,25 @@
+.homeContainer {
+    padding: 16px;
+}
+
+.dataComp {
+    border: 1px solid black;
+    padding: 16px;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 8px;
+}
+
+.dataCompChild{
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerComp {
+    padding: 16px;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-between;
+}
